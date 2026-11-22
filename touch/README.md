@@ -1,3 +1,3 @@
 # OLED Structure
 
-![OLED Structure](./structure.png)
+![ساختار قطعات](./structure.png)
