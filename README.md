@@ -1,5 +1,26 @@
 # شهریار ایران - کلاس کار و فناوری
 
+## ساختار
+
+├── README.md
+├── eyes
+│   ├── main.py
+│   ├── oled-structure.png
+│   └── README.md
+└── touch
+│   ├── main.py
+│   ├── structure.png
+│   └── README.md
+└── installer
+    ├── python
+    │   ├── python3.13
+    │   ├── python3.14
+    │   └── python3.15
+    └── thonny
+    │   ├── thonny5.0.0
+    │   └── thonny5.0.1
+    └── README.md
+
 ## 📁 فولدر eyes
 
 کدهای مربوط به طراحی و نمایش چشم‌های ربات روی نمایشگر OLED.
