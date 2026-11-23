@@ -8,7 +8,7 @@
 │   ├── main.py
 │   ├── oled-structure.png
 │   └── README.md
-└── touch
+├── touch
 │   ├── main.py
 │   ├── structure.png
 │   └── README.md
